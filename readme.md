@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/gratis-png-super-mario-logo-aplicacion-del-juego-super-mario-bros-3-mario-kart-8-papel-mario-pegatina-estrella-8-bits-thumbnail-removebg-preview.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 4</h3>
@@ -60,17 +60,23 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project?
+<br /> The project is about creating a feature pages using HTML and CSS.
+
+- Whats the purpose?
+<br> In web design, feature pages draw attention to important aspects of a product or service while offering comprehensive details in an aesthetically pleasing way. They strive to convert visitors into customers by establishing trust and proving value through immersive experiences that include high-quality graphics, interesting writing, and interactive components.
+
+- What are key components?
+<br /> Feature pages are created with an attention-grabbing headline, excellent photos, and persuading text that succinctly summarizes the characteristics and advantages of a product. In order to successfully explain the value proposition and inspire visitors, they frequently have interactive components, testimonials, call-to-action buttons, and a tidy, uncomplicated structure.
+
+- What technology used and how it is used?
+<br /> HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- 2 Feature pages
+- Landing page
 
 ### Technology
 <!-- TODO: List of Technology Used -->
