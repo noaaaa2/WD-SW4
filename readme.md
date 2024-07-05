@@ -64,13 +64,13 @@ Guiding Question:
 <br /> The project is about creating a feature pages using HTML and CSS.
 
 - Whats the purpose?
-<br> In web design, feature pages draw attention to important aspects of a product or service while offering comprehensive details in an aesthetically pleasing way. They strive to convert visitors into customers by establishing trust and proving value through immersive experiences that include high-quality graphics, interesting writing, and interactive components.
+<br> In web design, feature pages draw attention to important aspects of a product or service while offering comprehensive details in an aesthetically pleasing way. 
 
 - What are key components?
 <br /> Feature pages are created with an attention-grabbing headline, excellent photos, and persuading text that succinctly summarizes the characteristics and advantages of a product. In order to successfully explain the value proposition and inspire visitors, they frequently have interactive components, testimonials, call-to-action buttons, and a tidy, uncomplicated structure.
 
 - What technology used and how it is used?
-<br /> HTML and CSS is the technology used. The technologies of HTML and CSS are necessary to create feature pages. While CSS manages presentation and layout, HTML supplies structure and content. Together, they use tags for organization and style to produce aesthetically appealing, well-structured pages that highlight products or services.
+<br /> HTML and CSS is the technology used. The technologies of HTML and CSS are necessary to create feature pages. While CSS manages presentation and layout, HTML supplies structure and content. 
 
 ### Key Components
 <!-- TODO: List of Key Components -->
