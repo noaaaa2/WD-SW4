@@ -1,0 +1,237 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    overflow-y: scroll;
+    display: block;
+}
+
+.home {
+    position: relative;
+    padding: 3px;
+    margin: 10px 5px;
+    border-radius: 15px;
+    width: 5rem;
+    font-weight: bold;
+    border: 2px solid #000000;
+    background: transparent;
+    padding: .8rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.home a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.container-one {
+    width: 100%;
+    height: 100vh;
+    align-items: start;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+.navigation {
+    border-bottom: 1px solid rgb(228, 228, 228);
+    width: 120rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 2%;
+}
+
+.menu-icon {
+    font-size: 25px;
+    position: relative;
+    color: rgb(94, 94, 94);
+    left: 2%;
+    bottom: 8px;
+}
+
+@font-face {
+    font-family: book-font;
+    src: url(../js/Apple\ Chancery.ttf);
+}
+
+.title {
+    font-family: book-font;
+    font-size: 25px;
+    position: relative;
+    left: 43%;
+    bottom: 7px;
+    color: rgba(2, 2, 177, 0.829);
+}
+
+.hero-section {
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    top: 20%;
+    font-size: 120px;
+    font-family: georgia;
+}
+
+.container-two {
+    width: 100%;
+    height: 100vh;
+    display: block;
+    align-items: start;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+.read-more {
+    width: 400px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.feature-one-title {
+    position: relative;
+    font-size: 30px;
+    bottom: 90px;
+    left: 180px;
+}
+
+.feature-one-description {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    right: 40px;
+}
+
+.feature-two-title {
+    position: relative;
+    font-size: 30px;
+    left: 7%;
+    bottom: 80px;
+}
+
+.feature-two-description {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    right: 4.5%;
+}
+
+.research-less {
+    width: 400px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.save-money {
+    width: 400px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    left: 20px;
+}
+
+.feature-three-title {
+    position: relative;
+    font-size: 30px;
+    bottom: 90px;
+    left: 180px;
+}
+
+.feature-three-description {
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    right: 50px;
+}
+
+.feature-one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.feature-two {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 3%;
+}
+
+.feature-three {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 6%;
+}
+
+.botnav {
+    border-top: 1px solid rgb(228, 228, 228);
+    width: 120rem;
+    position: relative;
+    display: flex;
+    top: 70px;
+    align-items: center;
+    text-align: center;
+    justify-content: start;
+}
+
+.copyright {
+    position: relative;
+    left: 2%;
+    top: 20px;
+}
+
+.tc {
+    color: rgba(53, 53, 53, 0.733);
+    position: relative;
+    left: 6%;
+    top: 20px;
+}
+
+.privacy {
+    color: rgba(53, 53, 53, 0.733);
+    position: relative;
+    left: 8%;
+    top: 20px;
+}
+
+.accessibility {
+    color: rgba(53, 53, 53, 0.733);
+    position: relative;
+    left: 10%;
+    top: 20px;
+}
+
+.facebook {
+    color: rgba(24, 119, 242);
+    position: relative;
+    font-size: 30px;
+    left: 60%;
+    top: 20px;
+}
+
+.instagram {
+    color: rgba(193, 53, 132);
+    position: relative;
+    font-size: 30px;
+    left: 61%;
+    top: 20px;
+}
+
+.x {
+    position: relative;
+    font-size: 30px;
+    left: 62%;
+    top: 20px;
+}
+
