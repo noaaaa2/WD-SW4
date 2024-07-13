@@ -12,7 +12,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: ;
+    background-color: #8A9A5B;
 }
 
 h1.title {
@@ -52,7 +52,7 @@ a {
 }
 
 span {
-    background:#000000;
+    background:#ffffff;
     height: 100%;
     width: 0;
     border-radius: 25px;
@@ -68,6 +68,6 @@ a:hover span {
 }
 
 a:hover {
-    background-color: #000000;
-    border: none    ;
+    background-color: #00000050;
+    border: 2px solid #000000;
 }

@@ -1,0 +1,266 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    overflow-y: scroll;
+    display: block;
+}
+
+.home {
+    position: relative;
+    padding: 3px;
+    margin: 10px 5px;
+    border-radius: 15px;
+    width: 5rem;
+    font-weight: bold;
+    border: 2px solid #000000;
+    background: transparent;
+    padding: .8rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.home a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.page-one {
+    width: 100%;
+    height: 100vh;
+    align-items: start;
+    position: relative;
+    background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), url(../../../../assets/img/4k-beach-palm-tree-f2a8nttkoh10r4yj.jpg);
+}
+
+.navigation {
+    width: 100%;
+    height: 17vh;
+    position: relative;
+    background: linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.15));
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    color: white;
+    position: relative;
+    font-size: 30px;
+    left: 50px;
+}
+
+.menu-text {
+    color: white;
+    position: relative;
+    left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+.logo {
+    width: 10%;
+    position: relative;
+    left: 38%;
+}
+
+.book-now {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    border-radius: 1px;
+    padding: 0.8rem 1.3rem;
+    color: white;
+    border: 1px solid #ffffff;
+    position: relative;
+    left: 76%;
+}
+
+.title {
+    text-align: center;
+    font-family: title-font;
+    color: white;
+    position: relative;
+    top: 15%;
+    font-size: 120px;
+}
+
+@font-face {
+    font-family: title-font;
+    src: url(../js/Lobster-Regular.ttf);
+}
+
+.description {
+    text-align: center;
+    font-family: title-font;
+    color: white;
+    position: relative;
+    top: 18%;
+    font-size: 30px;
+}
+
+.page-two {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    position: relative;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45)), url(../../../../assets/img/4-1024x589.jpg);
+}
+
+.feature-one {
+    border-radius: 1px;
+    height: 50%;
+    border: none;
+    width: 28rem;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45));
+    position: relative;
+    top: 20%;
+    left: 13%;
+}
+
+.feature-two {
+    border-radius: 1px;
+    height: 50%;
+    border: none;
+    width: 28rem;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45));
+    position: relative;
+    left: 15%;
+    top: 20%;
+}
+
+.feature-three {
+    border-radius: 1px;
+    height: 50%;
+    border: none;
+    width: 28rem;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0.45),rgba(0,0,0,0.45));
+    position: relative;
+    top: 20%;
+    left: 17%;
+}
+
+.dining {
+    font-size: 50px;
+    color: white;
+    position: relative;
+    top: 20%;
+}
+
+.massage {
+    font-size: 50px;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    top: 20%;
+}
+
+.bike {
+    font-size: 50px;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    top: 20%;
+}
+
+.dining-text {
+    font-family: title-font;
+    color: white;
+    position: relative;
+    top: 25%;
+}
+
+.massage-text {
+    font-family: title-font;
+    color: white;
+    position: relative;
+    top: 25%;
+}
+
+.bike-text {
+    font-family: title-font;
+    color: white;
+    position: relative;
+    top: 25%;
+}
+
+.dining-description {
+    color: white;
+    padding: 3rem;
+    position: relative;
+    top: 20%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.massage-description {
+    color: white;
+    padding: 3rem;
+    position: relative;
+    top: 20%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bike-description {
+    color: white;
+    padding: 3rem;
+    position: relative;
+    top: 20%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.footer {
+    width: 100%;
+    height: 7vh;
+    position: relative;
+    background: white;
+    display: flex;
+    align-items: center;
+}
+
+.footer {
+    gap: 5rem;
+    left: 6%;
+}
+
+.day-trip {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.experiences {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.faq {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.contact {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.logo-two {
+    width: 3%;
+    position: relative;
+    left: 10%;
+}
+
+.beach-resort {
+    position: relative;
+    left: 39%;
+}
+
+
+

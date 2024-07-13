@@ -123,3 +123,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Book of the month | Feature 1 | https://baymard.com/ecommerce-design-examples/features-page/11691-book-of-the-month |
+| Beach | Feature 2 | https://www.behance.net/gallery/82315837/beach-features?tracking_source=search_projects|features+page&l=71 |
